@@ -1,0 +1,22 @@
+Readme.txt
+---------------
+Installation Instructions:
+
+1)Download the Add-In to a permanent place on your hard drive.
+
+2) Using My Computer or Explorer, run "Savannah PSC Addin.exe"
+
+3) The Add-In is now installed and registered.  To use it
+Open up Visual Basic.  Under the 'Add-Ins' menu choose Savannah Planet-Source-Code Addin"
+
+
+>>>>>>>>>>>>>>
+
+Originally modeled after Aldo Vargas's PSC addin, which severly lacked the options I needed!
+With this addin, you can reach almost every part of the PSC website from inside the VBIDE!
+
+------
+Savannah Addin Software
+http://savannah.iwarp.com
+orbios@hotmail.com
+---------
